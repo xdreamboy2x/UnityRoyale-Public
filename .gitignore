@@ -82,3 +82,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 Logs
+.idea
+Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
